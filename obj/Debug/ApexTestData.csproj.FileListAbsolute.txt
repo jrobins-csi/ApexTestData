@@ -1,0 +1,11 @@
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\ApexTestData.dll
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\ApexTestData.pdb
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\NLog.dll
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\NLog.xml
+Z:\GitHub\ApexReporter\ApexTestData\obj\Debug\ApexTestData.csprojResolveAssemblyReference.cache
+Z:\GitHub\ApexReporter\ApexTestData\obj\Debug\ApexTestData.csproj.CoreCompileInputs.cache
+Z:\GitHub\ApexReporter\ApexTestData\obj\Debug\ApexTestData.dll
+Z:\GitHub\ApexReporter\ApexTestData\obj\Debug\ApexTestData.pdb
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\CsvHelper.dll
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\CsvHelper.pdb
+Z:\GitHub\ApexReporter\ApexTestData\bin\Debug\CsvHelper.xml
